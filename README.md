@@ -7,11 +7,16 @@ It would be a database you can access by a table in the webpage and filter to ea
 
 ## Resources
 - Data: data.js
-- Software: Javascript, Visual Code, HTML
+- Software: Javascript, Visual Code, HTML, CSS
 
 ## Results 
 The webpage was created with dynamic filters - Data, City, State, Country, and Shape - to help with the use of data. 
 In the image below, it is possible to observe how the filter can be applied.
+
+![ufo](ufo.png).
+
+
+
 
 ## Summary 
 
